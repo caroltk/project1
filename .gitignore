@@ -1,2 +1,7 @@
 node_modules
 *.log
+*.zshrc
+zshrc
+package-lock.json
+package.json
+*.tmp
